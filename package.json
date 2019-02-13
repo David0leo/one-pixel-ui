@@ -1,8 +1,8 @@
 {
-	"name": "@david0leo/one-pixel-ui",
+	"name": "one-pixel-ui",
 	"author": "david0leo",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"main": "src/index.js",
 	"license": "MIT",
 	"repository": {
@@ -10,7 +10,7 @@
 		"url": "https://github.com/David0leo/one-pixel-ui"
 	},
 	"homepage": "https://onepixelui.com/",
-	"dependencies": {
+	"peerDependencies": {
 		"react": "^16.8.1",
 		"react-dom": "^16.8.1",
 		"react-scripts": "2.1.5"
