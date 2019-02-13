@@ -2,7 +2,7 @@
 	"name": "one-pixel-ui",
 	"author": "david0leo",
 	"version": "0.2.1",
-	"private": false,
+	"private": true,
 	"main": "src/index.js",
 	"license": "MIT",
 	"repository": {
